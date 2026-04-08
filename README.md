@@ -1,6 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://drive.google.com/file/d/1XqluPTe3QKuPZZGvzMxAQHREzwtFmliC/view?usp=sharing)
-
+![Banner Image](https://drive.google.com/uc?export=view&id=1XqluPTe3QKuPZZGvzMxAQHREzwtFmliC)
 # 🧑‍💻 Saiful Islam
 **Frontend Developer**  
 
